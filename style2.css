@@ -1,0 +1,33 @@
+body {
+    background-color: #0aabc0;
+}
+
+.container {
+    padding: 20px;
+}
+
+.card-columns {
+    column-count: 3;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card img {
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.jumbotron {
+    background-color: #0aabc0;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.jumbotron p, .jumbotron h1 {
+    background-color: #fff;
+    color: #000000;
+    padding: 20px;
+    border-radius: 20px;
+}
