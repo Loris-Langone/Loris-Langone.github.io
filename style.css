@@ -149,7 +149,6 @@ h1{
 
 .Btn:hover .BG {
     transform: scale(1.5);
-    /* transform-origin: bottom; */
     font-size: 20px;
     color: white;
 }
@@ -308,7 +307,6 @@ h1{
     display: block;
     width: 4px;
     background: #f5f5f6;
-    /*left: 50%;*/
     top: 20px;
     bottom: 20px;
     margin-left: 30px;
